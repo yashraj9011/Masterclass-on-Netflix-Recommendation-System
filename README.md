@@ -1,7 +1,12 @@
 # Masterclass-on-Netflix-Recommendation-System
-Session attended on netflix recommendation system
+
+Session attended on netflix recommendation system by Bosscoder Academy
 
 
+# Participation Certificate
+![Logo](https://github.com/yashraj9011/Masterclass-on-Netflix-Recommendation-System/blob/main/image/IMG_20231104_075842.jpg)
+
+# Recap of Session
 ![Logo](https://github.com/yashraj9011/Masterclass-on-Netflix-Recommendation-System/blob/main/image/IMG_20231103_204026.jpg)
 
 
