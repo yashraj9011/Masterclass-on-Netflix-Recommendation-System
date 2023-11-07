@@ -1,6 +1,10 @@
 # Masterclass-on-Netflix-Recommendation-System
 
-Session attended on netflix recommendation system by Bosscoder Academy
+## 2 Hour Session attended on Netflix Recommendation System by Bosscoder Academy . 
+
+# Summary of the Session :
+## Instructor started the session from basics of machine learning concepts . Information related to csv files , filtering techniques , types of ML techniques , various recommendation systems and their working principles , Netflix Recommendation System , Took sample code from scratch and explained in detail about it .
+
 
 
 # Participation Certificate
